@@ -3,6 +3,12 @@
 
 本プロダクトのドキュメントを[gitbook](https://github.com/GitbookIO/gitbook)で提供する
 
+## Requirements
+gibook
+  - node: v10.14.2
+  - npm: 6.4.1
+  - gitbook-cli: 2.3.2
+
 ## Getting Started
 リポジトリのclone
 
