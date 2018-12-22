@@ -1,2 +1,3 @@
 # Introduction
 
+!INCLUDE "../README.md"
