@@ -1,5 +1,6 @@
 {
     "plugins": [
-        "include"
+        "include",
+        "etoc-plus"
     ]
 }

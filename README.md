@@ -14,14 +14,14 @@ gibook
 
     $ git clone https://github.com/amenoci/poppin
 
-### ドキュメント
+### ドキュメント開発環境の導入
 pluginのインストール
 
     $ cd poppin/
     $ gitbook install docs/
 
 ## Usage
-### ドキュメント
+### ドキュメント開発
 ドキュメントサーバの起動
 
     $ cd poppin/
