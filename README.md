@@ -28,3 +28,10 @@ pluginのインストール
     $ gitbook serve docs/
 
 上記コマンドでgitbookのドキュメントサーバが起動するので, http://localhost:4000 でアクセス可能
+
+ドキュメントの生成
+
+    $ cd poppin/
+    $ gitbook build docs/ [path/to/your/dest/]
+
+- 生成先（path/to/your/dest/）を指定しない場合は`docs/_book/`に生成される
