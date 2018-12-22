@@ -15,7 +15,7 @@ pluginのインストール
     $ gitbook install docs/
 
 ## Usage
-### ドキュメントサーバ
+### ドキュメント
 ドキュメントサーバの起動
 
     $ cd poppin/
