@@ -8,8 +8,14 @@
 
     $ git clone https://github.com/amenoci/poppin
 
+### ドキュメント
+pluginのインストール
+
+    $ cd poppin/
+    $ gitbook install docs/
+
 ## Usage
-### ドキュメントサーバ
+### ドキュメント
 ドキュメントサーバの起動
 
     $ cd poppin/
