@@ -1,7 +1,7 @@
 # Poppin
 パスワード管理のDBアプリケーション  
 
-また, 本リポジトリのドキュメントを[gitbook](https://github.com/GitbookIO/gitbook)で提供する
+本プロダクトのドキュメントを[gitbook](https://github.com/GitbookIO/gitbook)で提供する
 
 ## Getting Started
 リポジトリのclone
